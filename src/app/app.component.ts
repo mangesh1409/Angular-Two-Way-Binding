@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'twoWayBinding';
+  data = 'Good Morning';
+  Name = 'Rahul';
 }
